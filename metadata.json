@@ -1,0 +1,8 @@
+{
+  "name": "Nexo — Urban Digital Twin",
+  "description": "Production-grade AI-driven Urban Digital Twin & Emergency Operations Platform with real-time telemetry, GIS, event correlation engine, predictive flood risk, 3D LiDAR FEA, drone computer vision intelligence, and emergency dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
